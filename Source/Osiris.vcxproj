@@ -536,7 +536,6 @@
     <ClInclude Include="Utils\EnumFlags.h" />
     <ClInclude Include="Utils\FieldFieldOffset.h" />
     <ClInclude Include="Utils\FieldOffset.h" />
-    <ClInclude Include="Utils\FileSlice.h" />
     <ClInclude Include="Utils\FlagsBuilder.h" />
     <ClInclude Include="Utils\GenericFunctionPointer.h" />
     <ClInclude Include="Utils\GenericPointer.h" />
@@ -552,9 +551,7 @@
     <ClInclude Include="Utils\OptionalPointee.h" />
     <ClInclude Include="Utils\Pad.h" />
     <ClInclude Include="Utils\PrivateTag.h" />
-    <ClInclude Include="Utils\RefCountedHook.h" />
     <ClInclude Include="Utils\ReturnAddress.h" />
-    <ClInclude Include="Utils\SpanSlice.h" />
     <ClInclude Include="Utils\StringBuilder.h" />
     <ClInclude Include="Utils\StringParser.h" />
     <ClInclude Include="Utils\StrongTypeAlias.h" />
