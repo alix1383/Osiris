@@ -152,7 +152,6 @@
     <ClInclude Include="Features\Hud\KillfeedPreserver\KillfeedPreserverConfigVariables.h" />
     <ClInclude Include="Features\Hud\PostRoundTimer\PostRoundTimer.h" />
     <ClInclude Include="Features\Hud\PostRoundTimer\PostRoundTimerConfigVariables.h" />
-    <ClInclude Include="Features\Hud\PostRoundTimer\PostRoundTimerContext.h" />
     <ClInclude Include="Features\Hud\PostRoundTimer\PostRoundTimerPanel.h" />
     <ClInclude Include="Features\Hud\PostRoundTimer\PostRoundTimerPanelFactory.h" />
     <ClInclude Include="Features\Hud\PostRoundTimer\PostRoundTimerPanelParams.h" />
@@ -550,7 +549,6 @@
     <ClInclude Include="Utils\Optional.h" />
     <ClInclude Include="Utils\OptionalPointee.h" />
     <ClInclude Include="Utils\Pad.h" />
-    <ClInclude Include="Utils\PrivateTag.h" />
     <ClInclude Include="Utils\ReturnAddress.h" />
     <ClInclude Include="Utils\StringBuilder.h" />
     <ClInclude Include="Utils\StringParser.h" />
