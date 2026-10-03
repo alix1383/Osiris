@@ -233,16 +233,13 @@
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerPositionArrow\PlayerPositionArrowPanel.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerPositionArrow\PlayerPositionArrowPanelParams.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerStateIcons\PlayerStateIconsPanel.h" />
-    <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerStateIcons\PlayerStateIconsPanelContext.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerStateIcons\PlayerStateIconsPanelParams.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerStateIcons\PlayerStateIconsToShow.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerWeaponIcon\ActiveWeaponIcon\ActiveWeaponIconPanelParams.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerWeaponIcon\ActiveWeaponIcon\PlayerActiveWeaponIconPanel.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerWeaponIcon\BombIcon\PlayerBombIconPanel.h" />
-    <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerWeaponIcon\BombIcon\PlayerBombIconPanelContext.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerWeaponIcon\BombIcon\PlayerBombIconPanelParams.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerWeaponIcon\PlayerWeaponIconPanel.h" />
-    <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerWeaponIcon\PlayerWeaponIconPanelContext.h" />
     <ClInclude Include="Features\Visuals\PlayerInfoInWorld\PlayerWeaponIcon\PlayerWeaponIconPanelParams.h" />
     <ClInclude Include="Features\Visuals\ViewmodelMod\ViewmodelMod.h" />
     <ClInclude Include="Features\Visuals\ViewmodelMod\ViewmodelModConfigVariables.h" />
